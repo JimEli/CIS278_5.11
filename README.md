@@ -1,4 +1,5 @@
-# Pima CC CIS278 Week #3 Exercise 5.11 (Find the Smallest Value of Series of Numbers)
+# Pima CC CIS278 Week #3 Exercise 5.11 
+## Find the Smallest Value of Series of Numbers
 
 Exercise 5.11 on page 206. Write an application that finds the smallest 
 of several integers. Assume that the first value read specifies the 
